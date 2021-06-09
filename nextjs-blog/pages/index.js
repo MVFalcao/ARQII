@@ -5,7 +5,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/IOT.jpg" />
       </Head>
 
       <main>
@@ -20,7 +20,8 @@ export default function Home() {
         <div className="grid">
           <h2>Sobre o projeto</h2>
           <p>
-            O projeto consiste em um medidor de temperatura que enviará informações para a alexia sobre a temperatura ambiente atual.
+            O projeto consiste em um medidor de temperatura que enviará informações para a alexia sobre a temperatura ambiente atual, usamos a plataforma da AWS para criar o projeto
+            onde foi programado em JavaScript e utilizamos uma placa X etc etc.
           </p>
         </div>
       </main>
